@@ -1,5 +1,5 @@
 # Contact Form Validation
- Using HTML, CSS & JAVASCRIPT
+ Using HTML, CSS & JAVASCRIPT.
 
 This project implements a client-side validation for a contact form using JavaScript. The form includes fields for name, phone number, email, and message. Each field has specific validation criteria:
 
